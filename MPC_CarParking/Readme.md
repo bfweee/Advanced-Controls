@@ -15,7 +15,7 @@ Parking a vehicle in a confined space, such as a parking lot, is a common task f
 <p align="center">
   <strong>Car Parking Model Predictive Control</strong>
   <br>
-  <img src="https://github.com/Rohit-Gupta2/Advanced-Controls/blob/Master/MPC_CarParking_ObstacleAvoidance/MPC_CP_Sim.gif" alt="Simulator">
+  <img src="https://github.com/Rohit-Gupta2/Advanced-Controls/blob/Master/MPC_CarParking/MPC_CP_Sim.gif" alt="Simulator">
 </p>
 
 ## Overview
